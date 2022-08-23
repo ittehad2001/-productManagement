@@ -1,0 +1,6 @@
+Product ID: 8
+Product Category: 
+Product Name: 
+Customer Name: 
+Customer ID: -582243706
+Sold Price: 32765
